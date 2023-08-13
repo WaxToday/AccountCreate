@@ -1,10 +1,6 @@
 # AccountCreate
 Javafx编写的图形化生成账号字典工具
 
-目前存在编译的jar包编码问题，先在命令行启动
-```
-java -Dfile.encoding=UTF-8 -jar AccountCreate.jar
-```
 
 # 界面
 ## top500模式
