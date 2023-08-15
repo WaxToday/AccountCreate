@@ -5,7 +5,7 @@ Javafx编写的图形化生成账号字典工具
 # 界面
 ## top500模式
 
-![top](https://raw.githubusercontent.com/WaxToday/AccountCreate/main/img/1.png)
+![top](https://raw.githubusercontent.com/WaxToday/AccountCreate/main/img/3.png)
 
 ## 姓氏模式
 
