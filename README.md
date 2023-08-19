@@ -3,6 +3,8 @@
 #### 介绍
 Javafx编写的图形化生成账号字典工具
 
+[Gitee地址](https://gitee.com/WaxToday/AccountCreate)
+
 #### 工具截图
 
 1.  top500模式
