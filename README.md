@@ -12,3 +12,5 @@ Javafx编写的图形化生成账号字典工具
 2.  姓氏模式
 
 ![姓氏模式](https://raw.githubusercontent.com/WaxToday/AccountCreate/main/img/4.png)
+
+建议用jdk11版本的
